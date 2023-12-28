@@ -1,11 +1,10 @@
-# PrivacyPolicy
 # Privacy Policy
 
 **Introduction**
 
-Welcome to [Your Software/Application Name]!
+Welcome to T Downloader!
 
-This Privacy Policy is intended to inform you about the types of information we collect, how we use it, and the choices you have regarding your information. By using [Your Software/Application Name], you agree to the terms outlined in this Privacy Policy.
+This Privacy Policy is intended to inform you about the types of information we collect, how we use it, and the choices you have regarding your information. By using T Downloader, you agree to the terms outlined in this Privacy Policy.
 
 **Information We Collect**
 
@@ -15,7 +14,7 @@ This Privacy Policy is intended to inform you about the types of information we 
 
 **How We Use Your Information**
 
-- **Service Improvement**: We use the collected information to enhance and personalize your experience with [Your Software/Application Name].
+- **Service Improvement**: We use the collected information to enhance and personalize your experience with T Downloader.
 - **Communication**: We may use your contact information to send important updates, newsletters, or promotional materials.
 
 **Data Security**
