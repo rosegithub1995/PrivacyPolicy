@@ -2,15 +2,15 @@
 
 **Acceptance of Terms**
 
-By using [Your Software/Application Name], you agree to these Terms and Conditions.
+By using T Downloader, you agree to these Terms and Conditions.
 
 **Intellectual Property**
 
-[Your Company Name] retains ownership of all intellectual property rights associated with [Your Software/Application Name].
+[Your Company Name] retains ownership of all intellectual property rights associated with T Downloader.
 
 **Limitation of Liability**
 
-[Your Company Name] is not liable for any direct, indirect, incidental, or consequential damages arising from the use of [Your Software/Application Name].
+[Your Company Name] is not liable for any direct, indirect, incidental, or consequential damages arising from the use of T Downloader.
 
 **Governing Law**
 
